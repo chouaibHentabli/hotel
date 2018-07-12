@@ -3,9 +3,9 @@ package com.tuto.hotels.hotelDatabse;
 public class Hotel {
   
 	
-	String name;
-	String address;
-	String city;
+	private String name;
+	private String address;
+	private String city;
 	int number;
 
 	public String getName() {
