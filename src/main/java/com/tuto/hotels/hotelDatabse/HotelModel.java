@@ -16,7 +16,7 @@ public class HotelModel {
 			new Hotel("Hotel Etoile", "Place de l'Etoile", "Paris", 4),
 			new Hotel("Hotel Vendome", "Place Vendome", "Paris", 5),
 			new Hotel("Hotel Hilton", "Trafalgar Square", "Londres", 4),
-			new Hotel("Hotel Ibis", "The City", "Alger", 3), };
+			new Hotel("Hotel Ibis", "The City", "Blida", 3), };
 
 	/**
 	 * Retourne les hôtels dans une ville donnée.
